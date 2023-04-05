@@ -3,6 +3,10 @@ package testng;
 import java.util.Scanner;
 
 public class TestGit {
-    Scanner scan = new Scanner(System.in);
+    public String name;
+    public int age;
+
+    public int height;
+
 
 }
