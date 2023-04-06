@@ -5,3 +5,4 @@ public class MastercardPayment {
         System.out.println("Pay via MC");
     }
 }
+// 1st - rename local
